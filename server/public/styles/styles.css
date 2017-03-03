@@ -1,0 +1,16 @@
+#firstName, #lastName {
+  margin: 5px;
+  padding: 2px;
+  border: 1px solid black;
+  width: 40%;
+  height: 50px:;
+}
+#nameButton {
+  margin: 1px;
+  margin-right: 10%;
+  padding: 1px;
+  float: right;
+  border: 1px solid black;
+  width: 40%;
+  height: 30px:;
+}
